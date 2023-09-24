@@ -4,17 +4,17 @@
 
 ### My microgames
 
-[Pong](/sample_page)
+#### Pong
 
 <img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/pongSS.png" height="50%" width="50%"/>
 
 ---
-[Space Invader] (/sample_page)
+#### Space Invader
 
 <img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/siSS.png" height="50%" width="50%"/>
 
 ---
-[Maze] (/sample_page)
+#### Maze
 
 <img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/mazeSS.png" height="50%" width="50%"/>
 
