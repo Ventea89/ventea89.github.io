@@ -5,15 +5,15 @@
 ### My microgames
 
 [Pong](/sample_page)
-<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/images/pongSS.png" height="70%"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/pongSS.png" height="70%"/>
 
 ---
 [Space Invader](/pdf/sample_presentation.pdf)
-<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/images/siSS.png" height="70%"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/siSS.png" height="70%"/>
 
 ---
 [Maze](http://example.com/)
-<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/images/mazeSS.png"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/mazeSS.png"/>
 
 ---
 
