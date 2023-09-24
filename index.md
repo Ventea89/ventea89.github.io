@@ -5,7 +5,7 @@
 ### My microgames
 
 [Pong](/sample_page)
-<img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/pongSS.png" height="40%" width="40%"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/master/images/pongSS.png" height="50%" width="50%"/>
 
 ---
 [Space Invader](/pdf/sample_presentation.pdf)
