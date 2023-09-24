@@ -5,25 +5,23 @@
 ### My microgames
 
 [Pong](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/thumbnails/pongSS.png" height="70%"/>
 
 ---
 [Space Invader](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/thumbnails/siSS.png" height="70%"/>
 
 ---
 [Maze](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/Ventea89/ventea89.github.io/blob/main/thumbnails/mazeSS.png"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Pong](http://example.com/)
+- [Space Invader](http://example.com/)
+- [Maze](http://example.com/)
 
 ---
 
