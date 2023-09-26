@@ -3,14 +3,13 @@ logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm a computer science major currently in my 5th semester of college at BINUS University. Here, I've been gaining valuable knowledge mainly various computer languages, data structures, and a lot of insight in how game development works. I hope to one day make use of my knowledge to make a helpful contribution to the world!
 
-  Skills:
+  <br> <br>
+
+    Skills:
   o Fluent in english (reading/writing)
   o 
   
-  <br> <br>
-
-  
-  
+   <br> <br>
   <a href="www.linkedin.com/in/andhika-kuartaputra-b16079293">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
